@@ -1,0 +1,38 @@
+Channels:
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/justinyu/anaconda3/envs/rby
+
+  added / updated specs:
+    - libstdcxx-ng
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2025.6.15  |       hbd8a1cb_0         148 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         148 KB
+
+The following NEW packages will be INSTALLED:
+
+  libgcc             conda-forge/linux-64::libgcc-15.1.0-h767d61c_2 
+  libstdcxx          conda-forge/linux-64::libstdcxx-15.1.0-h8f9b012_2 
+
+The following packages will be UPDATED:
+
+  ca-certificates    pkgs/main/linux-64::ca-certificates-2~ --> conda-forge/noarch::ca-certificates-2025.6.15-hbd8a1cb_0 
+  libgcc-ng          pkgs/main::libgcc-ng-11.2.0-h1234567_1 --> conda-forge::libgcc-ng-15.1.0-h69a702a_2 
+  libgomp              pkgs/main::libgomp-11.2.0-h1234567_1 --> conda-forge::libgomp-15.1.0-h767d61c_2 
+  libstdcxx-ng       pkgs/main::libstdcxx-ng-11.2.0-h12345~ --> conda-forge::libstdcxx-ng-15.1.0-h4852527_2 
+  openssl              pkgs/main::openssl-3.0.16-h5eee18b_0 --> conda-forge::openssl-3.5.0-h7b32b05_1 
+
+
+Proceed ([y]/n)? 

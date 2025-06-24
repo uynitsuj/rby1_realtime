@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: rby1_realtime
+Version: 0.0.1
+Summary: RBY1 control wrapper
+Author-email: Justin Yu <yujustin@berkeley.edu>
+License: MIT Software License
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: viser
+Requires-Dist: tyro
+Requires-Dist: mujoco
+Requires-Dist: mink
+
+# rby1-realtime
